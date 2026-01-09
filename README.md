@@ -75,5 +75,5 @@ Report Bug or Request Feature: Open an Issue on GitHub.
 
 Built with the future in mind. © 2026 NEXUS.
 
-If need be contact developers at : jimmysipenji@gmail.com
+If need be contact developers at : jimmysipenji@gmail.com or
                                    mbuthiaerique@gmail.com
